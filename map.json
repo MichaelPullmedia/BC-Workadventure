@@ -25,7 +25,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/soussol.json"
+                 "value":"soussol.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -43,7 +43,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/mezzanine.json"
+                 "value":"..\/..\/mezzanine.json"
                 }],
          "type":"tilelayer",
          "visible":true,
