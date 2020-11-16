@@ -181,8 +181,8 @@
          "id":14,
          "image":"",
          "name":"Calque d'Images 1",
-         "offsetx":-0.497528776715939,
-         "offsety":-1.43324252426942,
+         "offsetx":1.50247122328406,
+         "offsety":-2.43324252426942,
          "opacity":0.3,
          "type":"imagelayer",
          "visible":false,
@@ -745,7 +745,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -754,7 +754,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -763,7 +763,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -799,7 +799,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -808,7 +808,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -817,7 +817,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
